@@ -21,6 +21,7 @@
 |재귀 알고리즘 |[✍️ 필기 내용 보러 가기 ](https://velog.io/@prettylee620/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98)|
 | 그래프 알고리즘 | [✍️ 필기 내용 보러 가기 ](https://velog.io/@prettylee620/%EA%B7%B8%EB%9E%98%ED%94%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98) |
 |정렬 알고리즘 - 선택, 삽입, 버블|[✍️ 필기 내용 보러 가기 ](https://velog.io/@prettylee620/%EB%B2%84%EB%B8%94-%EC%A0%95%EB%A0%AC-%EC%82%BD%EC%9E%85-%EC%A0%95%EB%A0%AC-%EC%84%A0%ED%83%9D-%EC%A0%95%EB%A0%AC) |
+|DP와 분할과 정복 |[✍️ 필기 내용 보러 가기 ](https://incredible-gem-98e.notion.site/8-22-248bec70cb274c17b0eee9199ab7011e?pvs=4)|
 
 ### 풀이 및 코드
 
