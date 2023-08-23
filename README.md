@@ -23,3 +23,6 @@
 |정렬 알고리즘 - 선택, 삽입, 버블|[✍️ 필기 내용 보러 가기 ](https://velog.io/@prettylee620/%EB%B2%84%EB%B8%94-%EC%A0%95%EB%A0%AC-%EC%82%BD%EC%9E%85-%EC%A0%95%EB%A0%AC-%EC%84%A0%ED%83%9D-%EC%A0%95%EB%A0%AC) |
 
 ### 풀이 및 코드
+
+# 참고할 수 있는 URL
+[14번의 면접 그리고 취뽀 - 3 (코딩테스트) 라인 들어가신 코테 준비법](https://velog.io/@rmswjdtn/%EC%B7%A8%EC%97%85-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%8B%A0%EC%9E%85-14%EB%B2%88%EC%9D%98-%EB%A9%B4%EC%A0%91-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%B7%A8%EB%BD%80-3-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
